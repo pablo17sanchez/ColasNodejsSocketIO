@@ -1,8 +1,8 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Este es un ejemplo propio de como usuar socket.IO de Node.JS
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+
 
 ```
 npm install
